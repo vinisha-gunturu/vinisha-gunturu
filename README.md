@@ -1,4 +1,4 @@
-![GiHub Header banner](./assets/banner.png)
+![GiHub Header banner](./assets/github-header-banner.png)
 
 
 ### Languages
